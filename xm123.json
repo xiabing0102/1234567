@@ -54,7 +54,7 @@
 {
 "key": "csp_DiDuan",
 "name": "🌀 低端影视",
-"type": 3,
+"type": 1,
 "api": "csp_ColaCat",
 "searchable": 1,
 "quickSearch": 1,
