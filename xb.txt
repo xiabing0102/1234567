@@ -43,7 +43,7 @@
 
       "filterable": 1,
 
-      "ext": "https://tangsan99999.github.io/sub/xpath/360.json"
+      "ext": "https://xiabing1.coding.net/p/MT/d/MTV/git/raw/master/xpath/sogou.txt"
 
     },
 
