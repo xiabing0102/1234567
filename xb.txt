@@ -26,8 +26,8 @@
 //{"key":"csp_AliPanSou","name":"猫搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
 
 { "key": "360","name": "🐱360","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://xiabing1.coding.net/p/MT/d/MTV/git/raw/master/xpath/360.txt" },
-{ "key": "sogou","name": "🐱sogou","type": 3,"api": "csp_SPsogou","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://xiabing1.coding.net/p/MT/d/MTV/git/raw/master/xpath/sogou.txt" },
-{ "key": "2345","name": "🐱2345","type": 3,"api": "csp_2345","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://xiabing1.coding.net/p/MT/d/MTV/git/raw/master/xpath/2345.txt" },
+//{ "key": "sogou","name": "🐱sogou","type": 3,"api": "csp_SPsogou","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://xiabing1.coding.net/p/MT/d/MTV/git/raw/master/xpath/sogou.txt" },
+//{ "key": "2345","name": "🐱2345","type": 3,"api": "csp_2345","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://xiabing1.coding.net/p/MT/d/MTV/git/raw/master/xpath/2345.txt" },
 
     {
 
