@@ -1,4 +1,4 @@
-﻿{
+{
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 //"spider":"https://xiabing1.coding.net/p/MT/d/jiekou/git/raw/master/AiStarService.jar",
 "spider":"https://gitee.com/hd2019/OneClickRun/raw/master/xpath/baikan.jar",
@@ -29,7 +29,7 @@
 
   "sites": [
 
-    { // 解析自己找
+    {
 
       "key": "360",
 
